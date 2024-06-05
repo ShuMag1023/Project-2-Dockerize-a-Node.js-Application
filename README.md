@@ -1,4 +1,4 @@
-# Project-2-Dockerize-a-Node.js-Application
+# Dockerize-a-Node.js-Application
 
 
 Great! Let's dive into the details of dockerizing a Node.js application. This project involves setting up a Node.js application, writing a `Dockerfile` to containerize it, and using Ansible to automate the deployment.
